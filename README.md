@@ -4,7 +4,11 @@
 
 * [Material UI](https://material-ui.com/)
 
+## Databases
 
+### JSON Placeholder Data
+
+* [User Data Sample](https://jsonplaceholder.typicode.com/users)
 
 ## JavaScript Notes
 
