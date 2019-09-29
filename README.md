@@ -26,3 +26,23 @@ myArray.map( el => "c")
 myArray.map(() => 1 )
 // returns [1,1,1,1]
 ```
+
+### Promises
+
+```
+const myPromise = new Promise((resolve, reject) => {
+  if (true) {
+    setTimeout(() => {
+      resolve('I have succeeded');  
+    }, 1000);
+  } else {
+    reject('I have failed!');
+  }
+  
+  // 1000 is number of milliseconds, or 1 second in this case
+  
+  myPromise.then(value => console.log(value));
+
+})
+
+```
