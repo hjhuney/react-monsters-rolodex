@@ -99,5 +99,4 @@ myArray = [o1, o2]
 myArray.includes(o1)
 // returns true
 ```
-// returns false
-```
+
