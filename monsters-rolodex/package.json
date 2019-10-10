@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hjhuney.github.io/React-Neagoie/monsters-rolodex",
+  "homepage": "https://hjhuney.github.io/React-Neagoie/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.0",
